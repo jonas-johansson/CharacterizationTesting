@@ -1,10 +1,8 @@
 # Characterization Testing
 
-## Playground for characterization testing
+This is a C# project that's intentionally ugly and overly complex. It can be used to practice your skills for understanding code and cleaning it up.
 
-It's a dirty project with ugly and overly complex C# code. We'll try to make sense of it, and ultimately, clean it up.
-
-Imagine that the code is currently in use by people, so it's important that we don't accidentally break its current behavior.
+You should imagine that the code is currently in use by people, so it's important that we don't accidentally break its current behavior.
 
 ## Steps
 
