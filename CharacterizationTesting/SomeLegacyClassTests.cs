@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace CharacterizationTesting
 {
-	public class SomeClassTests
+	public class SomeLegacyClassTests
 	{
 		[Test]
 		public void PutYourTestCodeHere()
